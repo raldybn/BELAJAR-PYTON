@@ -3,7 +3,7 @@ b=-15
 c=0
 if a<b:
     c=20
-elif a<b:
+elif a>b:
     c=-20
 else:
    c=(f"sama dengan")
